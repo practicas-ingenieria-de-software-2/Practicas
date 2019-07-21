@@ -1,12 +1,12 @@
 ## Practicas Ingenieria de Software II: Jonathan Galvis
 ### Practicas Desarrolladas:
 ##### Patrones de diseño vistos en clase:
-*Abstract Factory
-*Builder
-*Decorator
-*Flyweight
-*Interpreter
-*NullObject
+* Abstract Factory
+* Builder
+* Decorator
+* Flyweight
+* Interpreter
+* NullObject
 
 ##### Triqui realizado en React Native.
 
